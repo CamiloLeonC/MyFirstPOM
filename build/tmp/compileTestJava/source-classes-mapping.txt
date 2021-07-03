@@ -1,0 +1,4 @@
+com/demoqa/test/stepdefinitions/RegisterUserWebTablesStepDefinition.java
+ com.demoqa.test.stepdefinitions.RegisterUserWebTablesStepDefinition
+com/demoqa/test/runners/RegisterUserWebTablesRunner.java
+ com.demoqa.test.runners.RegisterUserWebTablesRunner
